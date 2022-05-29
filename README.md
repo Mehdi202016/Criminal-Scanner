@@ -1,0 +1,2 @@
+# Criminal-Scanner
+Hyper casual
